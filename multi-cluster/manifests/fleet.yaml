@@ -17,7 +17,7 @@ targetCustomizations:
   yaml:
     overlays:
     # Refers to overlays/scale3 folder
-    - prod1
+    - devops
 
 #- name: prod-2
 #  clusterSelector:
